@@ -1,0 +1,51 @@
+{
+  "current": {
+    "air_quality": {
+      "co": 373.79998779296875,
+      "gb-defra-index": 4,
+      "no2": 26.100000381469727,
+      "o3": 28.299999237060547,
+      "pm10": 41.400001525878906,
+      "pm2_5": 38.599998474121094,
+      "so2": 7.099999904632568,
+      "us-epa-index": 2
+    },
+    "cloud": 4,
+    "condition": {
+      "code": 1000,
+      "icon": "//cdn.weatherapi.com/weather/64x64/night/113.png",
+      "text": "Clear"
+    },
+    "feelslike_c": 4.8,
+    "feelslike_f": 40.6,
+    "gust_kph": 13,
+    "gust_mph": 8.1,
+    "humidity": 71,
+    "is_day": 0,
+    "last_updated": "2022-12-23 22:45",
+    "last_updated_epoch": 1671824700,
+    "precip_in": 0,
+    "precip_mm": 0,
+    "pressure_in": 30.03,
+    "pressure_mb": 1017,
+    "temp_c": 6,
+    "temp_f": 42.8,
+    "uv": 1,
+    "vis_km": 10,
+    "vis_miles": 6,
+    "wind_degree": 163,
+    "wind_dir": "SSE",
+    "wind_kph": 6.1,
+    "wind_mph": 3.8
+  },
+  "location": {
+    "country": "Turkey",
+    "lat": 41.63,
+    "localtime": "2022-12-23 22:54",
+    "localtime_epoch": 1671825290,
+    "lon": 32.32,
+    "name": "Parthenium",
+    "region": "Kastamonu",
+    "tz_id": "Europe/Istanbul"
+  }
+}
